@@ -1,5 +1,17 @@
 [
   {
+    "name": "Night city",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/nc"
+  },
+  {
+    "name": "Green mist",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/gm"
+  },
+  {
+    "name": "Aurora polaris",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/ap"
+  },
+  {
     "name": "Mountain sunset",
     "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/ms"
   },
