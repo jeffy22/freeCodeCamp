@@ -1,5 +1,9 @@
 [
   {
+    "name": "war_machine",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/w"
+  },
+  {
     "name": "Freedom",
     "background": "https://images.pexels.com/photos/190340/pexels-photo-190340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
   },
