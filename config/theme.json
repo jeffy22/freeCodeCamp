@@ -46,7 +46,11 @@
   {
     "name": "Anime",
     "background": "https://images.pexels.com/photos/5835546/pexels-photo-5835546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-  },   
+  }, 
+  {
+    "name": "Happy",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/hp"
+  },
   {
     "name": "Love",
     "background": "https://images.pexels.com/photos/4197561/pexels-photo-4197561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
