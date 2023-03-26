@@ -1,7 +1,11 @@
 [
   {
-    "name": "war_machine",
-    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/w"
+    "name": "Mountain sunset",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/ms"
+  },
+  {
+    "name": "War machine",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/wm"
   },
   {
     "name": "Freedom",
