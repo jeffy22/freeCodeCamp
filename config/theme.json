@@ -222,5 +222,9 @@
   {
     "name": "Workout",
     "background": "https://images.pexels.com/photos/1886487/pexels-photo-1886487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "name": "Chill Out",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/am"
   }
 ]
