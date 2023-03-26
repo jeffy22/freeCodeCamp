@@ -1,5 +1,9 @@
 [
   {
+    "name": "Party",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/pm"
+  },
+  {
     "name": "Night city",
     "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/nc"
   },
