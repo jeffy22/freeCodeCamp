@@ -228,6 +228,14 @@
     "background": "https://images.pexels.com/photos/1886487/pexels-photo-1886487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
   },
   {
+    "name": "Star Wars",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/swt"
+  },
+  {
+    "name": "Star Wars",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/sws"
+  },
+  {
     "name": "Chill Out",
     "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/am"
   }
