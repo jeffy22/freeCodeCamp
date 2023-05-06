@@ -1,5 +1,9 @@
 [
   {
+    "name": "Dogs",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/dgv"
+  },
+  {
     "name": "Happy Music",
     "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/pm"
   },
@@ -246,14 +250,6 @@
   {
     "name": "Star Wars",
     "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/swd"
-  },
-  {
-    "name": "Dogs",
-    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/dg1"
-  },
-  {
-    "name": "Dogs",
-    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/dg2"
   },
   {
     "name": "Star Wars",
