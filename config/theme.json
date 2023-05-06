@@ -118,10 +118,6 @@
     "background": "https://images.pexels.com/photos/5345029/pexels-photo-5345029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
   },
   {
-    "name": "Alone",
-    "background": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-  },
-  {
     "name": "Nature",
     "background": "https://images.pexels.com/photos/40465/pexels-photo-40465.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
   },
@@ -258,5 +254,9 @@
   {
     "name": "Chill Out",
     "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/am"
+  },
+  {
+    "name": "Alone",
+    "background": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
   }
 ]
