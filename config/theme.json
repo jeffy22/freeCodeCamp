@@ -266,5 +266,9 @@
   {
     "name": "Alone",
     "background": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+  },
+  {
+    "name": "Cars",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/chm"
   }
 ]
