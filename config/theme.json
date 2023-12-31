@@ -1,5 +1,13 @@
 [
   {
+    "name": "Cars",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/c20231231002253"
+  },
+  {
+    "name": "Reggaeton",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/r20231231"
+  },
+  {
     "name": "Dogs",
     "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/dgv"
   },
@@ -18,6 +26,10 @@
   {
     "name": "Aurora polaris",
     "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/ap"
+  },
+  {
+    "name": "Cars",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/c20231231002140"
   },
   {
     "name": "Mountain sunset",
