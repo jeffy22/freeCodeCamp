@@ -1,5 +1,13 @@
 [
   {
+    "name": "Synthpop",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/ctw20240206"
+  },
+  {
+    "name": "Synthpop",
+    "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/ctm20240206"
+  },
+  {
     "name": "Cars",
     "background": "https://github.com/jeffy22/freeCodeCamp/raw/master/config/i/t/c20231231002253"
   },
